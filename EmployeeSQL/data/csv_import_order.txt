@@ -5,3 +5,4 @@ Import csvs in this order:
 3. departments.csv
 4. titles.csv
 5. salaries.csv
+6. employees.csv
