@@ -1,5 +1,5 @@
-Import csvs in this order:
-
+Import csvs in this order
+-------------------------
 1. dept_manager.csv
 2. dept_emp.csv
 3. departments.csv
